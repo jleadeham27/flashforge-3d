@@ -1,0 +1,105 @@
+[
+  {
+    "id": "1",
+    "slug": "latching-wireless-mic-case",
+    "name": "Latching Wireless Mic Case",
+    "tagline": "Zero-rattle. Field-ready. Every session.",
+    "price": 3499,
+    "category": "Audio",
+    "badge": "Best Seller",
+    "description": "Precision-engineered from high-temp PETG, this latching case houses up to two wireless mic transmitters and a receiver — locked in with anti-vibration foam inserts. Clip it to your rig, drop it in your bag, or mount it on a shoulder strap. Built for the creator who never stops moving.",
+    "material": "High-Temp PETG",
+    "weight": "142g",
+    "dimensions": "18cm × 9cm × 5cm",
+    "images": [
+      "/images/mic-case-1.jpg",
+      "/images/mic-case-2.jpg",
+      "/images/mic-case-3.jpg"
+    ],
+    "features": [
+      "Dual transmitter + receiver slots",
+      "Anti-vibration foam liner",
+      "IP44 moisture-resistant shell",
+      "Tool-free latch mechanism",
+      "MOLLE-compatible belt loop",
+      "Available in Matte Black & Stealth Olive"
+    ],
+    "whatsInTheBox": [
+      "1× Latching Mic Case (PETG shell)",
+      "2× Foam transmitter inserts",
+      "1× Foam receiver insert",
+      "1× Micro-fiber pouch",
+      "4× Velcro cable ties"
+    ],
+    "stripeProductId": "prod_mic_case_001"
+  },
+  {
+    "id": "2",
+    "slug": "rugged-action-camera-case",
+    "name": "Rugged Action Camera Case",
+    "tagline": "Protect the shot. Own the drop.",
+    "price": 2999,
+    "category": "Camera",
+    "badge": "New Drop",
+    "description": "A fortress for your GoPro, DJI Action, or Insta360. The ridged exoskeleton absorbs impact on hard falls while the internal silicone cradle keeps lens glass pristine. Compact enough to clip onto a backpack zipper — rugged enough for cliff jumps.",
+    "material": "High-Temp PETG + TPU Bumper",
+    "weight": "118g",
+    "dimensions": "12cm × 9cm × 7cm",
+    "images": [
+      "/images/action-case-1.jpg",
+      "/images/action-case-2.jpg",
+      "/images/action-case-3.jpg"
+    ],
+    "features": [
+      "Silicone shock-absorption cradle",
+      "Ridged exoskeleton drop protection",
+      "Compatible with GoPro 9/10/11/12, DJI Action 3/4, Insta360 X3",
+      "Spring-clip carabiner loop",
+      "Lens cover port with sliding gate",
+      "1.5m drop-tested"
+    ],
+    "whatsInTheBox": [
+      "1× Rugged Action Camera Case",
+      "1× TPU silicone cradle insert",
+      "1× Spring carabiner clip",
+      "1× Microfiber lens cloth",
+      "Compatibility guide card"
+    ],
+    "stripeProductId": "prod_action_case_002"
+  },
+  {
+    "id": "3",
+    "slug": "modular-desktop-charging-dock",
+    "name": "Modular Desktop Charging Dock",
+    "tagline": "One surface. Everything charged.",
+    "price": 5499,
+    "category": "Desk",
+    "badge": "Creator Pick",
+    "description": "The command center for your creator desk. Charge your phone, wireless earbuds, smartwatch, and action cam batteries simultaneously on a single sleek platform. Modular bays snap together — start with the base and expand as your kit grows. Built from matte-finish PETG that doesn't show fingerprints.",
+    "material": "Matte High-Temp PETG",
+    "weight": "310g",
+    "dimensions": "32cm × 14cm × 6cm",
+    "images": [
+      "/images/dock-1.jpg",
+      "/images/dock-2.jpg",
+      "/images/dock-3.jpg"
+    ],
+    "features": [
+      "4-device simultaneous charging",
+      "Snap-connect modular bay system",
+      "USB-C & USB-A pass-through ports",
+      "Anti-slip base pads",
+      "Cable management channels",
+      "Matte no-fingerprint surface finish"
+    ],
+    "whatsInTheBox": [
+      "1× Base charging platform",
+      "2× Modular expansion bays",
+      "1× USB-C hub insert",
+      "4× Anti-slip base pads",
+      "1× Cable routing clip set (6pc)",
+      "Quick-start guide"
+    ],
+    "stripeProductId": "prod_dock_003"
+  }
+]
